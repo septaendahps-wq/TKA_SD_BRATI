@@ -1,0 +1,6 @@
+{
+  "name": "Portal TKA Smart - Sistem Ujian Kemampuan Akademik",
+  "description": "Aplikasi ujian Tes Kemampuan Akademik (TKA) berbasis web dengan login siswa NISN, simulasi CBT real-time, evaluasi skor, dan panel guru pengelola bank soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
